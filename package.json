@@ -1,0 +1,24 @@
+{
+  "name": "dynamic-editor",
+  "version": "1.0.0",
+  "description": "Custom textarea with CKEditor to write as a professionnal",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aglsoftgithub/dynamic-editor.git"
+  },
+  "keywords": [
+    "editor",
+    "textarea",
+    "writing"
+  ],
+  "author": "Adrien Lagrange",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aglsoftgithub/dynamic-editor/issues"
+  },
+  "homepage": "https://github.com/aglsoftgithub/dynamic-editor#readme"
+}
